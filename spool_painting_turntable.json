@@ -1,0 +1,24 @@
+{
+    "parameterSets": {
+        "Enotepad PLA+": {
+            "$fn": "100",
+            "handle_number": "9",
+            "handle_size": "30",
+            "hook_height": "8",
+            "hook_number": "0",
+            "hook_offset": "2",
+            "hook_width": "7",
+            "lentil_number": "12",
+            "spool_glide_width": "15",
+            "spool_inner_diameter": "72",
+            "spool_inner_height": "20",
+            "test_height": "0.4",
+            "test_parts": "false",
+            "test_wall": "0.8",
+            "turntable_diameter": "195",
+            "turntable_height": "2.5",
+            "wall_size": "2"
+        }
+    },
+    "fileFormatVersion": "1"
+}
